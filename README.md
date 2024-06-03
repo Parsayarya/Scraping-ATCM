@@ -34,6 +34,10 @@ This dataset contains a collection of information and working papers from the An
 * **Submitted By**: The country or organization that submitted the document, reflecting the diverse international participation in the ATCM.
 * **Category**: The thematic category assigned to the document, such as 'Cooperation with other organizations' or 'Operation of the Antarctic Treaty System', helps in understanding the focus areas of the meeting.
 
+**Acknowledgement:**
+
+Research funded by Australian Research Council SRIEAS Grant SR200100005 Securing Antarctica’s Environmental Future.
+
 **Note**:
 
 Run the scripts in order: first for downloading and format conversion, then for text extraction and cleaning.
